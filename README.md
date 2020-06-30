@@ -1,9 +1,9 @@
-
+﻿
 # Documntacion del Proyecto 🛠️
 
 _📋 El proyecto consta de distinta informacion documentada en distintos archivos y formatos._
 
-## Despligue de informacion 📦
+## Despliegue de informacion 📦
 
 * [🖇️ Circuitos](https://github.com/Dy390/Documentacion/tree/master/Circuitos) - Circuitos esquematicos del proyecto.
 * [📄 Especificaciones Tecnicas](https://github.com/Dy390/Documentacion/tree/master/Especif_Tecnicas) - ET del proyecto.
