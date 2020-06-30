@@ -15,7 +15,7 @@ _📋 El proyecto consta de distinta informacion documentada en distintos archiv
 
 ## Autores ✒️
 
-_Quines desarrollamos aportamos y ayudamos a levantar el proyecto desde sus inicios_
+_Quienes desarrollamos aportamos y ayudamos a levantar el proyecto desde sus inicios_
 
 * **Diego Andrés Riquelme** 
 * **Walter Gabriel Pirri** 
