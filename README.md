@@ -9,7 +9,7 @@ _📋 El proyecto consta de distinta informacion documentada en distintos archiv
 * [📄 Especificaciones Tecnicas](https://github.com/Dy390/Documentacion/tree/master/Especif_Tecnicas) - ET del proyecto.
 * [📖 Manuales](https://github.com/Dy390/Documentacion/tree/master/Manual) - Manual General, Manual Tecnico, etc.
 * [📌 Notas](https://github.com/Dy390/Documentacion/tree/master/Notas) - Notas relacionadas al proyecto.
-* [🔧 Herramientas] ...
+* [🔧 Herramientas](https://github.com/Dy390/Documentacion/tree/master/Herramientas) - Herramientas del proyecto
 
 
 
