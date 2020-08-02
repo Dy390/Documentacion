@@ -1,0 +1,30 @@
+Interfaz DSC Key Bus
+https://github.com/taligentx/dscKeybusInterface
+
+DSC
+https://github.com/ArPIHomeSecurity/arpi_server/blob/master/src/monitoring/adapters/keypads/dsc.py
+
+Foro
+https://www.shieldlab.com/forum/index.php?topic=10480.0
+
+Alam Decoder
+https://www.alarmdecoder.com/wiki/index.php/Category:Documentation
+http://www.alarmdecoder.com/wiki/index.php/Protocol
+
+
+Foros
+http://forum.micasaverde.com/index.php?topic=6626.75
+
+https://www.avrfreaks.net/forum/dsc-keybus-protocol
+
+
+http://code.mios.com/trac/mios_dscalarmpanel
+
+Teclado virtual DSC
+https://github.com/sjlouw/dsc-alarm-arduino
+
+Honeywell
+https://github.com/TANC-security/keypad-firmware
+
+Paradox
+https://github.com/0ki/paradox
