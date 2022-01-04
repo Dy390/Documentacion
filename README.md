@@ -24,4 +24,5 @@ _Quienes desarrollamos aportamos y ayudamos a levantar el proyecto desde sus ini
 Este proyecto está bajo la Licencia 
 
 ![Screenshot](20200423_143925.jpg)
+![Screenshot](20200424_221259.jpg)
 
