@@ -18,8 +18,6 @@ _📋 El proyecto consta de distinta informacion documentada en distintos archiv
 _Quienes desarrollamos aportamos y ayudamos a levantar el proyecto desde sus inicios_
 
 * **Diego Andrés Riquelme** 
-* **Walter Gabriel Pirri** 
-
 
 ## Licencia 📄
 
