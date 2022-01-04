@@ -1,7 +1,7 @@
 ﻿
 # Documntacion del Proyecto 🛠️
 
-_📋 El proyecto consta de distinta informacion documentada en distintos archivos y formatos._
+_📋 El proyecto consta de distinta informacion documentada en diferentes archivos y formatos._
 
 ## Despliegue de informacion 📦
 
